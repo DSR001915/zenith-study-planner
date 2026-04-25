@@ -120,8 +120,7 @@ zenith-study-planner/
 ├── vite.config.ts
 └── README.md # (this file)
 
-````
-
+```
 
 ---
 
