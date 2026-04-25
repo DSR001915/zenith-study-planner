@@ -32,7 +32,7 @@ Zenith helps students organize tasks, track projects, and stay motivated through
 - Enhance focus through Pomodoro and ambient sound modes.  
 - Provide an interactive, theme‑rich, and offline‑capable experience.  
 
-> **Live Demo:** [https://zenith-study-planner.vercel.app](https://zenith-study-planner.vercel.app)  *(Replace with your deployed link)*
+> **Live Demo:** [https://zenith-study-planner.vercel.app](https://zenith-study-planner.vercel.app)
 
 ---
 
