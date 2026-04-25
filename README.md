@@ -9,7 +9,7 @@ Zenith helps students organize tasks, track projects, and stay motivated through
 - [🌟 Project Overview](#-project-overview)
 - [🚀 Features](#-features)
 - [🧠 Tech Stack](#-tech-stack)
-- [🏗️ Project Structure](#-project-structure)
+- [🏗️ Project Structure](#project-structure)
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [📸 Screenshots](#-screenshots)
 - [📅 Calendar Enhancements](#-calendar-enhancements)
